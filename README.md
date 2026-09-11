@@ -1,81 +1,110 @@
-# <R. Hildermann>
+# R. Hildermann
 
-Ex SAP and IT consultant, now building software. Kaiserslautern, Germany — available now.
+**Ex SAP and IT consultant, now building software.**
+Kaiserslautern, Germany · available now · open to remote or hybrid
 
-**Where I come from:** four years of SAP consulting. S/4HANA (SD/MM), migration and
-transformation projects, test management (ISTQB), project management (PRINCE2). The work was
-requirements, interfaces, acceptance criteria and finding out why something didn't behave the
-way the specification said it would.
+> Four years of SAP consulting taught me to find out why something doesn't behave the way the
+> specification says. That's still the job — the tooling just changed.
 
-**What I do now:** I design systems, decide the trade-offs, and orchestrate AI tooling to
-implement them — then check the result against what the people using it actually need.
-The judgement is the part I bring; the throughput comes from the tooling.
+| | |
+|:--|:--|
+| **Now** | Building and operating production software, AI-assisted |
+| **Before** | SAP S/4HANA (SD/MM) · migration projects · test management |
+| **Shipped** | A mental health app on iOS and Android · a self-hosted voice platform in daily use |
+| **Looking for** | Junior software engineer · technical consultant · QA and test automation |
 
 ---
 
-## What I build
+## Experience
 
-### HiveMind — self-hosted voice and community platform
-A replacement for Discord for a five-person crew, because three things broke down for us:
-screen-share quality at 1440p, German home networks behind DS-Lite and CGNAT, and the fact
-that none of it was ours.
+### wefeel — cross-platform mental health app
+*Two-month internship, mobile team*
 
-Built and operated solo. **In daily production use since <08/2026>** on a dedicated root server.
+Shipped into a production app that's live on iOS and Android: the events tab, a home screen
+redesign, the training tab, a design token refactor, and the in-app subscription system on
+both StoreKit and Google Play Billing.
 
-`Django REST Framework` · `PostgreSQL` · `Expo` · `Tauri` · `TypeScript` · `Linux / Docker`
+**20+ pull requests, reviewed and merged.**
 
-Architecture, engineering decisions and debugging write-ups: [LINK:SHOWCASE]
+`React Native` `Expo Router` `TypeScript` `TanStack React Query`
 
-### HiveMind Mobile — four-week team MVP
-Where the project started: a community mobile app, built by a small team through issues,
-feature branches and reviewed pull requests. My contribution is documented in the repository.
+<sub>Company code — not public. Happy to walk through the work in detail.</sub>
 
-`React Native` · `Expo` · `Django REST Framework` · `PostgreSQL`
+---
 
-[LINK:MOBILE]
+## Projects
 
-### [event-intake](https://github.com/R-u-d/event-intake) — event ingestion API
-A small FastAPI service: the ingest path, request correlation and the validation boundary,
-with persistence deliberately left out. Small enough to read in five minutes.
+### HiveMind
+**Self-hosted voice and community platform.** A Discord replacement for a five-person crew,
+built because three things broke down for us: screen-share quality at 1440p, German home
+networks behind DS-Lite and CGNAT, and the fact that none of it was ours.
 
-`Python` · `FastAPI` · `pytest`
+Built and operated solo. **In daily production use since August 2026** on a dedicated root server.
+
+`Django REST Framework` `PostgreSQL` `Expo` `Tauri` `TypeScript` `Linux` `Docker`
+
+→ Architecture, decisions and debugging write-ups: [LINK:SHOWCASE]
+
+<br>
+
+### HiveMind Mobile
+**Four-week team MVP.** Where the project started — a community mobile app, built by a small
+team through issues, feature branches and reviewed pull requests. My contribution is
+documented in the repository.
+
+`React Native` `Expo` `Django REST Framework` `PostgreSQL`
+
+→ [LINK:MOBILE]
+
+<br>
+
+### event-intake
+**Event ingestion API.** The ingest path, request correlation and the validation boundary —
+persistence deliberately left out. Small enough to read in five minutes.
+
+`Python` `FastAPI` `pytest`
+
+→ [github.com/R-u-d/event-intake](https://github.com/R-u-d/event-intake)
 
 ---
 
 ## How I work
 
-Requirement → architecture → AI-assisted implementation → validation against the domain.
+**Requirement → architecture → AI-assisted implementation → validation against the domain.**
 
-The last step is the one that decides whether the result is worth anything, and it is the one
-my consulting years are good for. Four years of writing test cases and running acceptance
-means I know how to break something on purpose before a user does it by accident.
+The last step decides whether the result is worth anything, and it's the one my consulting
+years are good for. Four years of writing test cases and running acceptance means I know how
+to break something on purpose before a user does it by accident.
 
-The setup I use for this — agent instructions, workflows, review gates — is here: [LINK:STANDARDS]
+→ The setup behind this — agent instructions, workflows, review gates: [LINK:STANDARDS]
 
 ---
 
 ## Working with others
 
-- **HiveMind Mobile** — four-week team build: issues, feature branches, reviewed PRs
-- **[PokedexDiary](https://github.com/jobben-2025/PokedexDiary/pulls?q=author%3AR-u-d)** —
-  duo project during the programme; 3 pull requests, reviewed and merged
+| Where | What |
+|:--|:--|
+| **wefeel** | Mobile team, two months, 20+ reviewed PRs |
+| **HiveMind Mobile** | Four-week team build — issues, feature branches, reviewed PRs |
+| **[PokedexDiary](https://github.com/jobben-2025/PokedexDiary/pulls?q=author%3AR-u-d)** | Duo project during the programme — 3 pull requests, reviewed and merged |
 
 ---
 
 ## Stack
 
 | | |
-|---|---|
+|:--|:--|
 | **Backend** | Python · Django REST Framework · FastAPI · PostgreSQL · REST API design |
-| **Frontend** | TypeScript · React · React Native · Expo · Tailwind |
+| **Mobile** | React Native · Expo · Expo Router · TanStack React Query |
+| **Frontend** | TypeScript · React · Tailwind |
 | **Ops** | Linux root server · Docker · GitHub Actions · reverse proxy / TLS |
 | **Domain** | SAP S/4HANA (SD/MM) · migration projects · test management (ISTQB) · project management (PRINCE2) |
 
-Everything listed here is something I can walk you through in one of the repositories above.
+<sub>Everything listed is something I can walk you through in one of the projects above.</sub>
 
 ---
 
 ## Contact
 
-<r.hildermann@outlook.de> · [LinkedIn](<http://bit.ly/48eWrjj>) · Kaiserslautern, Germany
+**r.hildermann@outlook.de** · Kaiserslautern, Germany
 Open to permanent roles — remote or hybrid.
