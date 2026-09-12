@@ -28,7 +28,7 @@ both StoreKit and Google Play Billing.
 
 `React Native` `Expo Router` `TypeScript` `TanStack React Query`
 
-<sub>Company code — not public. Happy to walk through the work in detail.</sub>
+<sub>Company code — not public. App already in production on both App Store and Google Play.</sub>
 
 ---
 
@@ -58,7 +58,7 @@ documented in the repository.
 
 <br>
 
-### event-intake
+### Event-Intake
 **Event ingestion API.** The ingest path, request correlation and the validation boundary —
 persistence deliberately left out. Small enough to read in five minutes.
 
@@ -99,8 +99,6 @@ to break something on purpose before a user does it by accident.
 | **Frontend** | TypeScript · React · Tailwind |
 | **Ops** | Linux root server · Docker · GitHub Actions · reverse proxy / TLS |
 | **Domain** | SAP S/4HANA (SD/MM) · migration projects · test management (ISTQB) · project management (PRINCE2) |
-
-<sub>Everything listed is something I can walk you through in one of the projects above.</sub>
 
 ---
 
