@@ -34,7 +34,7 @@ both StoreKit and Google Play Billing.
 
 ## Projects
 
-### HiveMind
+### HiveMind Desktop
 **Self-hosted voice and community platform.** A Discord replacement for a five-person crew,
 built because three things broke down for us: screen-share quality at 1440p, German home
 networks behind DS-Lite and CGNAT, and the fact that none of it was ours.
