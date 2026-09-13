@@ -43,7 +43,7 @@ Built and operated solo. **In daily production use since August 2026** on a dedi
 
 `Django REST Framework` `PostgreSQL` `Expo` `Tauri` `TypeScript` `Linux` `Docker`
 
-→ Architecture, decisions and debugging write-ups: [LINK:SHOWCASE]
+→ Architecture, decisions and debugging write-ups: [hivemind-showcase](https://github.com/R-u-d/hivemind-showcase)
 
 <br>
 
