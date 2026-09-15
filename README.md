@@ -54,7 +54,7 @@ Built and operated solo. **In daily production use since August 2026** on a dedi
 
 `Django REST Framework` `PostgreSQL` `Expo` `Tauri` `TypeScript` `Linux` `Docker`
 
-→ Architecture, decisions and debugging write-ups: [hivemind-showcase](https://github.com/R-u-d/hivemind-showcase)
+→ Architecture, decisions and debugging write-ups: [https://github.com/R-u-d/hivemind-showcase](https://github.com/R-u-d/hivemind-showcase)
 
 <br>
 
@@ -91,8 +91,7 @@ the GUI, **84 tests**.
 
 `Python` `Tkinter` `pyttsx3` `pytest`
 
-→ [github.com/R-u-d/geopatra](https://github.com/R-u-d/geopatra) · original with full
-history: [jobben-2025/Speak2Me](https://github.com/jobben-2025/Speak2Me)
+→ [github.com/R-u-d/geopatra](https://github.com/R-u-d/geopatra)
 
 ---
 
@@ -112,7 +111,7 @@ to break something on purpose before a user does it by accident.
 |:--|:--|
 | **wefeel** | Mobile team, two months, 20+ reviewed PRs |
 | **HiveMind Mobile** | Four-week team build — issues, feature branches, reviewed PRs |
-| **[Speak2Me](https://github.com/jobben-2025/Speak2Me/pulls?q=author%3AR-u-d)** | One-week group project — pull requests into someone else's repository |
+| **[geopatra/Speak2Me](https://github.com/jobben-2025/Speak2Me/pulls?q=author%3AR-u-d)** | One-week group project — PRs into someone else's repository |
 
 ---
 
