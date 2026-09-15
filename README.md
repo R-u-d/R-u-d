@@ -35,9 +35,9 @@ both StoreKit and Google Play Billing.
 ### WBS Coding School — software engineering programme
 *One year, completed August 2026*
 
-Where the team work started. The HiveMind Mobile MVP and the PokedexDiary duo project were
-both built during the programme, against issues, feature branches and peer review rather
-than exercises.
+Python and web fundamentals first, then JavaScript and TypeScript, then a four-week team
+build. The HiveMind Mobile MVP and the PokedexDiary duo project both came out of it — built
+against issues, feature branches and peer review rather than exercises.
 
 ---
 
