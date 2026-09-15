@@ -112,7 +112,6 @@ to break something on purpose before a user does it by accident.
 |:--|:--|
 | **wefeel** | Mobile team, two months, 20+ reviewed PRs |
 | **HiveMind Mobile** | Four-week team build — issues, feature branches, reviewed PRs |
-| **[PokedexDiary](https://github.com/jobben-2025/PokedexDiary/pulls?q=author%3AR-u-d)** | Duo project during the programme — 3 pull requests, reviewed and merged |
 | **[Speak2Me](https://github.com/jobben-2025/Speak2Me/pulls?q=author%3AR-u-d)** | One-week group project — pull requests into someone else's repository |
 
 ---
