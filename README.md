@@ -81,13 +81,18 @@ persistence deliberately left out. Small enough to read in five minutes.
 
 ### Geopatra
 **Desktop chatbot that speaks its answers and animates an avatar in time with its own
-voice.** Started as a one-week group project; the avatar syncs to the *edge* of the speech
-engine's busy flag rather than to a timer, because the length of an utterance isn't known
-in advance. Works with the network unplugged — a live demo was not going to depend on
-venue wifi.
+voice.** Python and Tkinter — no game engine, no web stack. Started as a one-week group
+project.
 
-Cleaned up and tested afterwards: hardcoded token removed, response logic separated from
-the GUI, **84 tests**.
+The avatar syncs to the *edge* of the speech engine's busy flag rather than to a timer,
+because the length of an utterance isn't known in advance and anything clock-based drifts
+within one sentence. The clips play forwards then backwards and are swapped only at a loop
+boundary, so a change of mood never shows a cut. Works with the network unplugged —
+the language model is an opt-in route behind a `?` prefix, and gets a reduced placeholder
+set, so a model reply can change the avatar's mood but cannot reach `{quit}`.
+
+Cleaned up afterwards: hardcoded token removed, response logic split from the GUI so that
+**84 tests** run without opening a window.
 
 `Python` `Tkinter` `pyttsx3` `pytest`
 
