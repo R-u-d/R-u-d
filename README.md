@@ -76,8 +76,6 @@ The last step decides whether the result is worth anything, and it's the one my 
 years are good for. Four years of writing test cases and running acceptance means I know how
 to break something on purpose before a user does it by accident.
 
-→ The setup behind this — agent instructions, workflows, review gates: [LINK:STANDARDS]
-
 ---
 
 ## Working with others
