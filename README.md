@@ -30,6 +30,15 @@ both StoreKit and Google Play Billing.
 
 <sub>Company code — not public. App already in production on both App Store and Google Play.</sub>
 
+<br>
+
+### WBS Coding School — software engineering programme
+*One year, completed August 2026*
+
+Where the team work started. The HiveMind Mobile MVP and the PokedexDiary duo project were
+both built during the programme, against issues, feature branches and peer review rather
+than exercises.
+
 ---
 
 ## Projects
