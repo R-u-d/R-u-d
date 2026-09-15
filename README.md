@@ -33,11 +33,12 @@ both StoreKit and Google Play Billing.
 <br>
 
 ### WBS Coding School — software engineering programme
-*One year, completed August 2026*
+*One year full-time, completed August 2026*
 
-Python and web fundamentals first, then JavaScript and TypeScript, then a four-week team
-build. The HiveMind Mobile MVP and the PokedexDiary duo project both came out of it — built
-against issues, feature branches and peer review rather than exercises.
+Three twelve-week blocks — computer science in Python, frontend in JavaScript and
+TypeScript, then backend — followed by a four-week final project and a two-month
+internship. The HiveMind Mobile MVP was that final project; the wefeel internship closed
+the programme. Both ran on issues, feature branches and peer review rather than exercises.
 
 ---
 
