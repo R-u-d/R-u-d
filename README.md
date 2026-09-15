@@ -36,9 +36,10 @@ both StoreKit and Google Play Billing.
 *One year full-time, completed August 2026*
 
 Three twelve-week blocks — computer science in Python, frontend in JavaScript and
-TypeScript, then backend — followed by a four-week final project and a two-month
-internship. The HiveMind Mobile MVP was that final project; the wefeel internship closed
-the programme. Both ran on issues, feature branches and peer review rather than exercises.
+TypeScript, then backend with generative AI integration — followed by a four-week final
+project and a two-month internship. The HiveMind Mobile MVP was that final project; the
+wefeel internship closed the programme. Both ran on issues, feature branches and peer
+review rather than exercises.
 
 ---
 
