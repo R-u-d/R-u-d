@@ -54,7 +54,7 @@ documented in the repository.
 
 `React Native` `Expo` `Django REST Framework` `PostgreSQL`
 
-→ [https://github.com/R-u-d/hivemind-mobile](https://github.com/R-u-d/hivemind-mobile)
+→ [github.com/R-u-d/hivemind-mobile](https://github.com/R-u-d/hivemind-mobile)
 
 <br>
 
