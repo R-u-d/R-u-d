@@ -20,15 +20,22 @@ Kaiserslautern, Germany · available now · open to remote or hybrid
 ### wefeel — cross-platform mental health app
 *Two-month internship, mobile team*
 
-Shipped into a production app that's live on iOS and Android: the events tab, a home screen
-redesign, the training tab, a design token refactor, and the in-app subscription system on
-both StoreKit and Google Play Billing.
+**56 commits across 20+ reviewed pull requests** into a production codebase — available on
+Google Play (Early Access).
 
-**20+ pull requests, reviewed and merged.**
+- **Training** — rebuilt the training tab and challenge flow, connected exercises and
+  challenges to the backend API, added favourites and completion tracking
+- **Premium subscriptions** — subscription state, trial and paywall screens, premium gating,
+  renewal reminders, and native billing implemented for both StoreKit and Google Play Billing
+- **Home rework and auth** — including a silent logout that left sessions inconsistently cleared
+- Every feature shipped bilingual, German and English
 
-`React Native` `Expo Router` `TypeScript` `TanStack React Query`
+Worked on a `dev → staging → prod` branch chain: issue-driven, conventional commits,
+screenshots attached to every UI pull request.
 
-<sub>Company code — not public. App already in production on both App Store and Google Play.</sub>
+`React Native` `Expo Router` `TypeScript` `TanStack React Query` `StoreKit` `Google Play Billing`
+
+<sub>Company code — not public.</sub>
 
 <br>
 
