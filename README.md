@@ -10,7 +10,7 @@ Kaiserslautern, Germany · available now · open to remote or hybrid
 |:--|:--|
 | **Now** | Building and operating production software, AI-assisted |
 | **Before** | SAP S/4HANA (SD/MM) · migration projects · test management |
-| **Shipped** | A mental health app on iOS and Android · a self-hosted voice platform in daily use |
+| **Shipped** | A mental health app in early access on Google Play · a self-hosted voice platform in daily use |
 | **Looking for** | Junior software engineer · technical consultant · QA and test automation |
 
 ---
