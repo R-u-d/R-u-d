@@ -1,6 +1,6 @@
 # R. Hildermann
 
-**Ex SAP and IT consultant, now building software.**
+**SAP and IT consultant, now building software.**
 Kaiserslautern, Germany · available now · open to remote or hybrid
 
 > Four years of SAP consulting taught me to find out why something doesn't behave the way the
